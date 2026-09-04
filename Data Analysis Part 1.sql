@@ -1,5 +1,0 @@
-                  -- Analysis of the Data (Part 1) -----------------------------------
-create database healthcare;
-use healthcare;
-
-
